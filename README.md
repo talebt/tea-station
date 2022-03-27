@@ -1,4 +1,4 @@
-# tea-station
+# tea-shopper
 
 
 https://tea-shopper.netlify.app/
